@@ -1,0 +1,25 @@
+# Entornos virtuales y Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos grandes y de datos
+*.zip
+*.json
+*.csv
+*.h5
+*.keras
+*.pt
+*.pkl
+
+# Archivos ocultos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de credenciales
+kaggle.json
